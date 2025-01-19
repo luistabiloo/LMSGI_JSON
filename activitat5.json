@@ -1,0 +1,37 @@
+{
+    "nombre": "Vulpix",
+    "generacion": "Primera",
+    "categoria": "Zorro",
+    "tipos": ["Fuego"],
+    "habilidades": {
+      "habilidad": "Absorbe Fuego",
+      "habilidad_oculta": "Sequía"
+    },
+    "caracteristicas": {
+      "peso_kg": 9.9,
+      "altura_m": 0.6,
+      "sexo": {
+        "macho": "25%",
+        "hembra": "75%"
+      },
+      "color": "Marrón",
+      "grupos_huevo": ["Campo"]
+    },
+    "estadisticas_pokeathlon": {
+      "velocidad": 3,
+      "fortaleza": 2,
+      "precision": 3,
+      "resistencia": 3,
+      "salto": 3,
+      "total": 14,
+      "media": 2.8
+    },
+    "evoluciones": {
+      "evoluciona_de": null,
+      "evoluciona_a": {
+        "nombre": "Ninetales",
+        "condicion": "Uso de una Piedra Fuego"
+      }
+    },
+    "imagen": "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/8d/latest/20230613015324/Vulpix.png/300px-Vulpix.png"
+  }
