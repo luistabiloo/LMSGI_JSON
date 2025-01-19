@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Document XML per representar productes d'una botiga online -->
+<botiga>
+    <!--primer producte -->
+    <producte id="P001">
+        <nom>Rellotge Intel·ligent</nom>
+        <descripcio>Rellotge amb funcionalitats de salut i notificacions.</descripcio>
+        <preu moneda="EUR">89.99</preu>
+        <categoria>Electrònica</categoria>
+        <disponibilitat>En estoc</disponibilitat>
+        <imatge>https://exemple.com/imatges/rellotge.png</imatge>
+    </producte>
+
+    <!-- Informació del segon producte -->
+    <producte id="P002">
+        <nom>Mochila Antirrobo</nom>
+        <descripcio>Mochila amb cremallera oculta i resistent a l'aigua.</descripcio>
+        <preu moneda="EUR">45.50</preu>
+        <categoria>Accessoris</categoria>
+        <disponibilitat>Esgotat</disponibilitat>
+        <imatge>https://exemple.com/imatges/mochila.png</imatge>
+    </producte>
+</botiga>
